@@ -31,8 +31,9 @@
 
 📫 **How to reach me:**
 [LinkedIn](https://www.linkedin.com/in/mohamed-shehata11/) 
+[Email](mo01205043246@gmail.com)
 ---
 ## 📬 How to reach me:
-- **Email:** [mo01205043246@gmail.com](mailto:mo01205043246@gmail.com)
+- **Email:** [mo01205043246@gmail.com](mailto:mo01205043246@gmail.com
 - **LinkedIn:** [linkedin.com/in/mohamedshehata741](https://linkedin.com/in/your-profile)
 - **Location:** 10th of Ramadan, Egypt 📍
