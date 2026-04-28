@@ -15,7 +15,10 @@
 ---
 
 ### 🌟 Featured Projects
-
+- **[Credit Risk Prediction Dashboard](https://github.com/mohamedshehata741/Credit-Risk-Prediction-App)** 🏦
+  - Interactive web app built with **Streamlit** to predict loan default probability.
+  - Implemented **XGBoost** for classification and **Scikit-learn** for data preprocessing.
+  - Features real-time risk assessment and clear probability visualizations.
 
 ---
 
