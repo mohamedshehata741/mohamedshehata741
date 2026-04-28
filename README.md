@@ -31,3 +31,8 @@
 
 📫 **How to reach me:**
 [LinkedIn](https://www.linkedin.com/in/mohamed-shehata11/) 
+---
+## 📬 How to reach me:
+- **Email:** [mohamed.a.shehata@eng.asu.edu.eg](mailto:mohamed.a.shehata@eng.asu.edu.eg)
+- **LinkedIn:** [linkedin.com/in/mohamedshehata741](https://linkedin.com/in/your-profile)
+- **Location:** 10th of Ramadan, Egypt 📍
