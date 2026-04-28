@@ -30,6 +30,6 @@
 ---
 
 📫 **How to reach me:**
-[LinkedIn](https://www.linkedin.com/in/mohamed-shehata11/) 
-**Gmail:** [mohamedshehata741@gmail.com](mailto:mohamedshehata741@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-shehata11/),
+**Gmail:** [mo01205043246@gmail.com](mailto:mo01205043246@gmail.com)
 
