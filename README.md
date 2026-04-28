@@ -31,7 +31,7 @@
 
 📫 **How to reach me:**
 [LinkedIn](https://www.linkedin.com/in/mohamed-shehata11/) 
-[Email](mo01205043246@gmail.com)
+[Email]((mailto:mo01205043246@gmail.com)
 ---
 ## 📬 How to reach me:
 - **Email:** [mo01205043246@gmail.com](mailto:mo01205043246@gmail.com
